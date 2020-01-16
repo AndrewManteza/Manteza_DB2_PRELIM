@@ -1,0 +1,1 @@
+SELECT salary, first_name, last_name FROM employees where salary < 6000;
